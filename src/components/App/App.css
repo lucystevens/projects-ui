@@ -1,0 +1,28 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+h1.name {
+  font-size: 3rem;
+  margin: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-shadow: 2px 2px #748b99;
+}
+
+.top-bar {
+  padding-right: 1rem;
+  background-color: #dddddd;
+  color: black;
+}
+
+h1.projects {
+  font-size: 1.5rem;
+  padding: 0rem 1rem;
+  color: black;
+}
+
+
